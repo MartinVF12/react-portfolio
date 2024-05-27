@@ -3,7 +3,7 @@ import Project from '../Project';
 
 function Portfolio() {
     const projects = [
-        // Define tus proyectos aquí
+
     ];
 
     return (

@@ -19,7 +19,7 @@ function Contact() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        // Validación adicional si es necesario
+
     };
 
     return (
