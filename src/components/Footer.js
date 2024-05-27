@@ -5,9 +5,9 @@ function Footer() {
         <footer>
             <p>© 2024 Mi Nombre</p>
             <ul>
-                <li><a href="https://github.com/MiGithub">GitHub</a></li>
-                <li><a href="https://www.linkedin.com/in/MiLinkedIn/">LinkedIn</a></li>
-                <li><a href="https://stackoverflow.com/users/MiStackOverflow">Stack Overflow</a></li>
+                <li><a href="https://github.com/MartinVF12/react-portfolio">GitHub</a></li>
+                <li><a href="https://www.linkedin.com/feed/">LinkedIn</a></li>
+                <li><a href="https://stackoverflow.com/users/23010330/martin-vivanco">Stack Overflow</a></li>
             </ul>
         </footer>
     );

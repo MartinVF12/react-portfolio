@@ -5,7 +5,7 @@ import '../App.css';
 function Header() {
     return (
         <header>
-            <h1>Mi Portafolio</h1>
+            <h1>My Portafolio</h1>
             <Navigation />
         </header>
     );
