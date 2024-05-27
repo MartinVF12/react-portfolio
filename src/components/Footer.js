@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <footer>
-            <p>© 2024 Mi Nombre</p>
+            <p>© 2024 JOSE MARTIN VIVANCO FLORES</p>
             <ul>
                 <li><a href="https://github.com/MartinVF12/react-portfolio">GitHub</a></li>
                 <li><a href="https://www.linkedin.com/feed/">LinkedIn</a></li>
