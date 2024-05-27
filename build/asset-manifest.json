@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f271d1bb.chunk.js",
+    "main.js.map": "/static/js/main.f271d1bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32d4da3c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32d4da3c.js.map",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d4da3c.js",
+    "static/js/main.f271d1bb.chunk.js"
+  ]
+}
