@@ -4,11 +4,15 @@ function Resume() {
     return (
         <section>
             <h2>Resume</h2>
-            <a href="ruta/a/tu/resume.pdf" download>Download Resume</a>
+            <a href=".src/assets/CV.pdf" download>Download Resume</a>
             <ul>
-                <li>Proficiency 1</li>
-                <li>Proficiency 2</li>
-                <li>Proficiency 3</li>
+                <li>HTML/CSS/Git</li>
+                <li>JavaScript</li>
+                <li>The DOM</li>
+                <li>JQuery</li>
+                <li>JSON</li>
+                <li>AJAX</li>
+                <li>Bootstrap</li>
             </ul>
         </section>
     );
