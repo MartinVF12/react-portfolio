@@ -44,3 +44,8 @@ For any questions or suggestions, please feel free to contact me:
 
 GitHub: MartinVF12
 Email: martinvivanco@live.com.mx
+Deploy:https://main--superb-eclair-1e2a45.netlify.app/resume  
+
+
+<img width="1263" alt="Captura de pantalla 2024-05-27 a la(s) 6 53 24 p m" src="https://github.com/MartinVF12/-ExpressNoteTakerApp/assets/152545821/dfd9f892-08d4-494c-9664-1c0f8baa9af0"> 
+ 
