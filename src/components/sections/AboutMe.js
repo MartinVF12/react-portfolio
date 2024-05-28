@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from '../../assets/img.jpeg'; // Ruta correcta a la imagen
+import profileImage from '../../assets/img.jpeg';
 
 function AboutMe() {
     return (
